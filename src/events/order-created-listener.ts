@@ -1,4 +1,4 @@
-import {AbstractListener, OrderCreatedEvent, Subjects} from "@tktbitch/common";
+import {AbstractListener, OrderCreatedEvent, Subjects} from "@tktbch/common";
 import {Message} from "node-nats-streaming";
 import {queueGroupName} from "./queue-group-name";
 import {Order} from "../models/order";

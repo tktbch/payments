@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import {OrderStatus} from "@tktbitch/common";
+import {OrderStatus} from "@tktbch/common";
 import {updateIfCurrentPlugin} from "mongoose-update-if-current";
 
 interface OrderAttrs {

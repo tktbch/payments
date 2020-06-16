@@ -1,7 +1,7 @@
 import {OrderCreatedListener} from "../order-created-listener";
 import {natsWrapper} from "../../nats-wrapper";
 import mongoose from "mongoose";
-import {OrderCreatedEvent, OrderStatus} from "@tktbitch/common";
+import {OrderCreatedEvent, OrderStatus} from "@tktbch/common";
 import {Message} from "node-nats-streaming";
 import {Order} from "../../models/order";
 

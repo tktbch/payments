@@ -471,6 +471,21 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@tktbch/common@^1.0.13":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@tktbch/common/-/common-1.0.13.tgz#5df2470d6711cb6f9a60a9daf6cd404c24701519"
+  integrity sha512-ru9+1+QJ4qdPADenvT+dxzqL4NwSl589JtI1Xa9ggkEGXJWMRULUbo57ER8vFt3RqsY6AWv6eSCEpy6DrhSaJw==
+  dependencies:
+    "@types/cookie-session" "^2.0.40"
+    "@types/express" "^4.17.6"
+    "@types/jsonwebtoken" "^8.5.0"
+    cookie-session "^1.4.0"
+    express "^4.17.1"
+    express-async-errors "^3.1.1"
+    express-validator "6.4.0"
+    jsonwebtoken "^8.5.1"
+    node-nats-streaming "^0.3.2"
+
 "@tktbitch/common@^1.0.2":
   version "1.0.12"
   resolved "https://registry.yarnpkg.com/@tktbitch/common/-/common-1.0.12.tgz#9257ca7c8cc2def6cbe258f8cbf67df5ceee60b0"

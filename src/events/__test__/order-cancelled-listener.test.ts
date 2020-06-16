@@ -1,6 +1,6 @@
 import {OrderCancelledListener} from "../order-cancelled-listener";
 import {natsWrapper} from "../../nats-wrapper";
-import {OrderCancelledEvent, OrderStatus} from "@tktbitch/common";
+import {OrderCancelledEvent, OrderStatus} from "@tktbch/common";
 import {Message} from "node-nats-streaming";
 import mongoose from "mongoose";
 import {Order} from "../../models/order";

@@ -6,7 +6,7 @@ import {
     OrderStatus,
     requireAuth,
     validateRequest
-} from "@tktbitch/common";
+} from "@tktbch/common";
 import {body} from "express-validator";
 import {Order} from "../models/order";
 import {stripe} from "../stripe";

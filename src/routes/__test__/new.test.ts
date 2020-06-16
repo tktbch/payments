@@ -1,7 +1,7 @@
 import request from 'supertest';
 import {app} from '../../app';
 import mongoose from "mongoose";
-import {getCookie, OrderStatus} from "@tktbitch/common";
+import {getCookie, OrderStatus} from "@tktbch/common";
 import {Order} from "../../models/order";
 import {stripe} from "../../stripe";
 import {Payment} from "../../models/payment";
