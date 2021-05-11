@@ -486,21 +486,6 @@
     jsonwebtoken "^8.5.1"
     node-nats-streaming "^0.3.2"
 
-"@tktbitch/common@^1.0.2":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@tktbitch/common/-/common-1.0.12.tgz#9257ca7c8cc2def6cbe258f8cbf67df5ceee60b0"
-  integrity sha512-5baZKVjyUwzz4+K/SG+NnftHOwhyRahPRnCO86hEEsDAWf7mY+2AljnZCcTd2CW/iEGnSM/8cqUCUwONlLMSQg==
-  dependencies:
-    "@types/cookie-session" "^2.0.40"
-    "@types/express" "^4.17.6"
-    "@types/jsonwebtoken" "^8.5.0"
-    cookie-session "^1.4.0"
-    express "^4.17.1"
-    express-async-errors "^3.1.1"
-    express-validator "6.4.0"
-    jsonwebtoken "^8.5.1"
-    node-nats-streaming "^0.3.2"
-
 "@types/babel__core@^7.1.7":
   version "7.1.8"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.8.tgz#057f725aca3641f49fc11c7a87a9de5ec588a5d7"
@@ -2183,9 +2168,9 @@ has-values@^1.0.0:
     kind-of "^4.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^2.0.1:
   version "2.0.1"
