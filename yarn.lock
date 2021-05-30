@@ -486,21 +486,6 @@
     jsonwebtoken "^8.5.1"
     node-nats-streaming "^0.3.2"
 
-"@tktbitch/common@^1.0.2":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@tktbitch/common/-/common-1.0.12.tgz#9257ca7c8cc2def6cbe258f8cbf67df5ceee60b0"
-  integrity sha512-5baZKVjyUwzz4+K/SG+NnftHOwhyRahPRnCO86hEEsDAWf7mY+2AljnZCcTd2CW/iEGnSM/8cqUCUwONlLMSQg==
-  dependencies:
-    "@types/cookie-session" "^2.0.40"
-    "@types/express" "^4.17.6"
-    "@types/jsonwebtoken" "^8.5.0"
-    cookie-session "^1.4.0"
-    express "^4.17.1"
-    express-async-errors "^3.1.1"
-    express-validator "6.4.0"
-    jsonwebtoken "^8.5.1"
-    node-nats-streaming "^0.3.2"
-
 "@types/babel__core@^7.1.7":
   version "7.1.8"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.8.tgz#057f725aca3641f49fc11c7a87a9de5ec588a5d7"
@@ -5041,9 +5026,9 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 ws@^7.2.3:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.3.0.tgz#4b2f7f219b3d3737bc1a2fbf145d825b94d38ffd"
-  integrity sha512-iFtXzngZVXPGgpTlP1rBqsUK82p9tKqsWRPg5L56egiljujJT3vGAYnHANvFxBieXrTFavhzhxW52jnaWV+w2w==
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
