@@ -486,21 +486,6 @@
     jsonwebtoken "^8.5.1"
     node-nats-streaming "^0.3.2"
 
-"@tktbitch/common@^1.0.2":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@tktbitch/common/-/common-1.0.12.tgz#9257ca7c8cc2def6cbe258f8cbf67df5ceee60b0"
-  integrity sha512-5baZKVjyUwzz4+K/SG+NnftHOwhyRahPRnCO86hEEsDAWf7mY+2AljnZCcTd2CW/iEGnSM/8cqUCUwONlLMSQg==
-  dependencies:
-    "@types/cookie-session" "^2.0.40"
-    "@types/express" "^4.17.6"
-    "@types/jsonwebtoken" "^8.5.0"
-    cookie-session "^1.4.0"
-    express "^4.17.1"
-    express-async-errors "^3.1.1"
-    express-validator "6.4.0"
-    jsonwebtoken "^8.5.1"
-    node-nats-streaming "^0.3.2"
-
 "@types/babel__core@^7.1.7":
   version "7.1.8"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.8.tgz#057f725aca3641f49fc11c7a87a9de5ec588a5d7"
@@ -3736,9 +3721,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
